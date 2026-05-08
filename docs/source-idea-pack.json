@@ -1,0 +1,38 @@
+{
+  "product": "pi-camera-smartphone-photo-link",
+  "sourceRank": {
+    "rank": 59,
+    "tier": "P3",
+    "score": 52,
+    "domain": "IoT",
+    "ideaNo": 12,
+    "ideaName": "Piカメラ・スマホ写真連携",
+    "repositoryName": "pi-camera-smartphone-photo-link",
+    "publicTarget": "GitHub Release / 自宅LAN",
+    "priorityReason": "実機連携と写真権限が絡むため、先にWeb/Android側の設計が必要。"
+  },
+  "initialRepositoryReadme": "not-found-at-start",
+  "exactCreatedIdeaPath": "D:\\AI\\IoT\\created_idea_012_pi-camera-smartphone-photo-link",
+  "exactZipPath": "D:\\AI\\IoT\\created_idea_012_pi-camera-smartphone-photo-link\\idea_012_pi-camera-smartphone-photo-link.zip",
+  "exactCreatedIdeaPathExists": true,
+  "exactZipExists": true,
+  "fallbackSearchUsed": false,
+  "fallbackSearchResults": [],
+  "zipEntriesChecked": [
+    "metadata.json",
+    "START_PROMPT.md",
+    "README.md",
+    "01_REQUIREMENTS.md",
+    "03_DESIGN.md",
+    "04_IMPLEMENTATION_PLAN.md",
+    "05_TEST_PLAN.md",
+    "06_RELEASE_CHECKLIST.md",
+    "02_SPECIFICATION.md"
+  ],
+  "expectedZipEntriesPresent": true,
+  "metadataRepositoryName": "pi-camera-smartphone-photo-link",
+  "metadataIdea": "Piカメラ・スマホ写真連携",
+  "metadataMatchesRepository": true,
+  "markdownCopyPolicy": "Formal docs are regenerated in normal Japanese from NON_PICKUP row, metadata, and domain docs. ZIP markdown is checked but not copied verbatim.",
+  "mojibakePolicy": "Generated docs are checked by code point based scanner."
+}
